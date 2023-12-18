@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Github Stats P2](https://github-readme-streak-stats.herokuapp.com/?user=yyewolf&theme=gruvbox&hide_border=true)
 
-![Github Stats P3](https://github-readme-stats.vercel.app/api/top-langs/?username=yyewolf&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+![Github Stats P3](https://github-readme-stats.vercel.app/api/top-langs/?username=yyewolf&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&exclude_repo=malware2023,amio2023)
 
 </div>
 
